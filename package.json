@@ -4,12 +4,13 @@
   "description": "Hyperlink colorization in Atom",
   "engines": {
     "atom": "*",
-    "node": "*"
+    "node": "*",
+    "chevron": "*"
   },
   "homepage": "http://atom.github.io/language-hyperlink",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-hyperlink.git"
+    "url": "https://github.com/builtbygio/language-hyperlink.git"
   },
   "license": "MIT",
   "bugs": {
