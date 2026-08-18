@@ -1,6 +1,6 @@
 {
   "name": "language-hyperlink",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "description": "Hyperlink colorization in Chevron",
   "engines": {
     "atom": "*",
